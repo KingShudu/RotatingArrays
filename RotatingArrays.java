@@ -14,6 +14,7 @@ new array. Then change the original array by using System.arraycopy().
 * then adding the contents of the temporary array to the end of the new array.
 * */
 import java.util.Scanner;
+import java.util.*;
 public class RotatingArrays {
     public static void main(String[] args) {
         int [] originalArray = {1,2,3,4,5,6,7};
